@@ -1,0 +1,12 @@
+Hajar & Zahra: AI
+	_capture image by  pi camera
+	_pass image tp image to model
+	_text extraction for saving raw text
+	_font size detection
+
+Yassine: API
+	_Extraction of schemas
+	_Extraction of tables
+	_Extraction of lists
+	
+	
