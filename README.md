@@ -1,0 +1,78 @@
+---
+
+Project: Clarix
+Description:
+Clarix is a smart automation system designed to streamline classroom or
+meeting board usage by combining real-time content digitization with
+physical board cleaning. Mounted at the top of a 50cm x 30cm chalkboard,
+the system features a camera that automatically captures an image of the
+board once it detects that the writing space is full. The captured image
+is processed with OCR (Optical Character Recognition) to extract textual
+content and convert it into a searchable PDF for digital storage and easy
+reference. To reset the board for the next session, Clarix uses a
+motor-driven brush mounted on a horizontal rail. A geared DC motor
+drives the brush across the board, providing sufficient torque to clean
+the surface effectively despite chalk dust or friction. The system automates
+both the capture and erasure processes, reducing manual intervention, enhancing
+efficiency, and enabling seamless digital archiving of handwritten notes.
+
+---
+
+Required Features:
+Board content capturing ...................
+Content extraction from image ............. ai
+Content.jpg and Content.pdf to drive ......
+Using llm api to summarize content ........ api
+Automatic board cleaning ..................
+
+---
+
+Pipeline:
+
+---
+
+Ideas:
+\_notify user of machine error with buzzer and red led
+\_use dc motor instead of servo motor
+
+---
+
+Hard ware :
+\_White board (owned)
+\_Raspberry pi 4 (owned)
+\_Jumper wires (owned)
+\_Power supply (owned)
+\_Power switch (owned)
+\_LEDs (owned)
+\_Resistances (owned)
+\_Buzzer (owned)
+\_Button (onwed)
+
+---
+
+Sources:
+\_https://www.youtube.com/watch?v=Vv9Ouf_QH5s
+
+---
+
+References:
+https://www.kaggle.com/ : lungs and heart datasets
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10177339/ : stethoscope types
+https://en.wikipedia.org/wiki/Computer-aided_auscultation : CAA
+
+---
+
+Articles:
+AI:
+Embedded Systems:
+https://www.ijres.org/papers/Volume-10/Issue-5/Ser-15/F10052932.pdf
+
+---
+
+Qestions: None
+
+---
+
+Notes: None
+
+---
