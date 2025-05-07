@@ -50,18 +50,6 @@ Hard ware :
 
 -----------------------------------------------------------------------------------------------------
 
-Sources: 	 
-	_https://www.youtube.com/watch?v=Vv9Ouf_QH5s
-
------------------------------------------------------------------------------------------------------
-
-References:
-	https://www.kaggle.com/ : lungs and heart datasets
-	https://pmc.ncbi.nlm.nih.gov/articles/PMC10177339/ : stethoscope types
-	https://en.wikipedia.org/wiki/Computer-aided_auscultation : CAA
-
------------------------------------------------------------------------------------------------------
-
 Articles:
 	AI:
 		
