@@ -1,0 +1,42 @@
+{
+    "ChatGPT": {
+        "Precision": 0.9531,
+        "Recall": 0.9385,
+        "F1 Score": 0.9457,
+        "Words in Ground Truth": 102,
+        "Words in Prediction": 101,
+        "Correct Words": 61
+    },
+    "Claude": {
+        "Precision": 0.9538,
+        "Recall": 0.9538,
+        "F1 Score": 0.9538,
+        "Words in Ground Truth": 102,
+        "Words in Prediction": 102,
+        "Correct Words": 62
+    },
+    "Gemini": {
+        "Precision": 0.9231,
+        "Recall": 0.9231,
+        "F1 Score": 0.9231,
+        "Words in Ground Truth": 102,
+        "Words in Prediction": 101,
+        "Correct Words": 60
+    },
+    "Deepseek": {
+        "Precision": 0.8261,
+        "Recall": 0.8769,
+        "F1 Score": 0.8507,
+        "Words in Ground Truth": 102,
+        "Words in Prediction": 113,
+        "Correct Words": 57
+    },
+    "Grok": {
+        "Precision": 0.9687,
+        "Recall": 0.9538,
+        "F1 Score": 0.9612,
+        "Words in Ground Truth": 102,
+        "Words in Prediction": 110,
+        "Correct Words": 62
+    }
+}

@@ -1,0 +1,16 @@
+Mini Course 6: Newton's Laws of Motion (Py Docs)
+
+Newton's Laws of Motion describe the relationship between a body and the forces acting on it, and its motion in response to those forces. These laws are fundamental in classical mechanics.
+
+Equation:
+
+Newton's Second Law:
+F = ma
+
+Where:
+
+F is the force applied (in Newtons)  
+m is the mass of the object (in Kg)  
+a is the acceleration produced (in m/s²)  
+
+This equation implies that the acceleration of an object is directly proportional to the net force and inversely proportional to its mass. It is used in engineering, space science, and mechanics.

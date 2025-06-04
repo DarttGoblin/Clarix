@@ -1,0 +1,12 @@
+Mini Course 9: Introduction to Supply and Demand (Economics)
+
+Supply and demand is a fundamental economic model that explains how prices vary based on the balance between product availability and consumer desire.
+
+Concept        Definition  
+Demand        Quantity consumers are willing to buy at various prices.  
+Supply        Quantity producers are willing to sell at various prices.  
+Equilibrium   Price point where supply equals demand.  
+Surplus       Excess supply over demand at a given price.  
+Shortage      Excess demand over supply at a given price.  
+
+The interaction between supply and demand determines market equilibrium, influencing production decisions and price strategies.

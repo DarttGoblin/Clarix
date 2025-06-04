@@ -1,0 +1,10 @@
+Mini Course 8: Supply and Demand in Economics
+
+Supply and demand are core concepts in economics used to describe market dynamics. The equilibrium price is where the quantity supplied equals the quantity demanded.
+Price	Qte Demanded	Qte Supplied
+5	100	40
+10	80	80
+15	60	120
+
+
+At a price of 10, the market reaches equilibrium, balancing the interests of consumers and producers.

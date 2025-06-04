@@ -1,0 +1,10 @@
+Mini Course 2: Descriptive Statistics Basics
+
+Descriptive statistics summarize and organize characteristics of  dataset. They include measures of central tendency, dispersion, and shape of the distribution.
+
+Measure	 Description	Formula
+Mean	 Average value	xˉ=1n∑xixˉ=n1​∑xi​
+Median	 Middle value	N/A (position-based)
+Standard Deviation	Spread of data around the mean	1n∑(xi−xˉ)2n1​∑(xi​−xˉ)2
+​
+Variance	Average squared deviation	1n∑(xi−xˉ)2n1​∑(xi​−xˉ)2

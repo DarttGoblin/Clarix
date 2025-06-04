@@ -1,0 +1,8 @@
+Mini Course 3: Basics of Probability Theory
+
+
+Probability theory is the branch of mathematics concerned with the analysis of random phenomena. The outcome of a random experiment is described by a probability distribution.
+
+P(A∪B)=P(A)+P(B)−P(A∩B)
+
+This formula is essential in determining the probability of either event A or event B occurring. It avoids double-counting the overlap between the two events, represented by P(A∩B)

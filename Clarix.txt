@@ -39,9 +39,11 @@ Ideas:
 
 Hard ware :
 	_White board	  (owned)
+	_Gear rack        (owned)
+	_wooden supports  (owned)
 	_Raspberry pi 4   (owned)
+	_Servo motors     (owned)
 	_Jumper wires     (owned)
-	_Power supply     (owned)
 	_Power switch     (owned)
 	_LEDs 		  (owned)
 	_Resistances      (owned)

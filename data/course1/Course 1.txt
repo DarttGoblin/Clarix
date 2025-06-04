@@ -1,0 +1,7 @@
+Mini Course 1: Introduction to Linear Regression
+
+Linear regression is a fundamental statistical technique used to model the relationship between a dependent variable and one or more independent variables. It assumes that this relationship is linear
+
+y=β0+β1x+ϵ
+
+The coefficients β0​ and β1 are typically estimated using the least squares method
